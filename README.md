@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Ikikaiga
+- 👋 Hi
 - just newbie
